@@ -1,8 +1,4 @@
-import './style.css'
-
-
-
-document.querySelector('#app').innerHTML = `
+document.querySelector('#briks-buttton').innerHTML = `
   <div>
    
    
@@ -15,5 +11,4 @@ document.querySelector('#app').innerHTML = `
     </p>
   </div>
 `
-
 // setupCounter(document.querySelector('#counter'))
